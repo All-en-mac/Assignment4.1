@@ -1,5 +1,3 @@
-Step 1: registration.html Source Code
-Create a new file named registration.html in your project folder and paste the following clean, well-structured HTML code:
 
 HTML
 <!DOCTYPE html>
